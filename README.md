@@ -9,4 +9,4 @@ Also this repo. contains the basics topics of python to advance level of python'
 . \
 . \
 . \
-If you like my contributions then star this repo. and follow @bhavsarhem on github, happy Learnings!!!😁✌️
+If you like my contributions then star this repo. and follow me on github, \ happy Learnings!!!😁✌️ \
