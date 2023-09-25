@@ -7,6 +7,8 @@ print('HELLO WORLD!')
 # or
 a1 = "HELLO"
 a2 = "WORLD!"
+
+# This method of merging two strings is known as concatination
 print(a1 +" "+ a2)
 
 # or 
